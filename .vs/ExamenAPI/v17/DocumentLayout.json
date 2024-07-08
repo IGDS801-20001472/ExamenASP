@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Desarrollos de .ASP\\ExamenAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C730484B-0150-4306-93AB-00D62FD7AD1F}|ExamenAPI\\ExamenAPI.csproj|c:\\desarrollos de .asp\\examenapi\\examenapi\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C730484B-0150-4306-93AB-00D62FD7AD1F}|ExamenAPI\\ExamenAPI.csproj|solutionrelative:examenapi\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C730484B-0150-4306-93AB-00D62FD7AD1F}|ExamenAPI\\ExamenAPI.csproj|c:\\desarrollos de .asp\\examenapi\\examenapi\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C730484B-0150-4306-93AB-00D62FD7AD1F}|ExamenAPI\\ExamenAPI.csproj|solutionrelative:examenapi\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C730484B-0150-4306-93AB-00D62FD7AD1F}|ExamenAPI\\ExamenAPI.csproj|c:\\desarrollos de .asp\\examenapi\\examenapi\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C730484B-0150-4306-93AB-00D62FD7AD1F}|ExamenAPI\\ExamenAPI.csproj|solutionrelative:examenapi\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C730484B-0150-4306-93AB-00D62FD7AD1F}|ExamenAPI\\ExamenAPI.csproj|c:\\desarrollos de .asp\\examenapi\\examenapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C730484B-0150-4306-93AB-00D62FD7AD1F}|ExamenAPI\\ExamenAPI.csproj|solutionrelative:examenapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C730484B-0150-4306-93AB-00D62FD7AD1F}|ExamenAPI\\ExamenAPI.csproj|c:\\desarrollos de .asp\\examenapi\\examenapi\\proyectocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C730484B-0150-4306-93AB-00D62FD7AD1F}|ExamenAPI\\ExamenAPI.csproj|solutionrelative:examenapi\\proyectocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C730484B-0150-4306-93AB-00D62FD7AD1F}|ExamenAPI\\ExamenAPI.csproj|c:\\desarrollos de .asp\\examenapi\\examenapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C730484B-0150-4306-93AB-00D62FD7AD1F}|ExamenAPI\\ExamenAPI.csproj|solutionrelative:examenapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Desarrollos de .ASP\\ExamenAPI\\ExamenAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ExamenAPI\\appsettings.json",
+              "ToolTip": "C:\\Desarrollos de .ASP\\ExamenAPI\\ExamenAPI\\appsettings.json",
+              "RelativeToolTip": "ExamenAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-07T22:13:44.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Desarrollos de .ASP\\ExamenAPI\\ExamenAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ExamenAPI\\Program.cs",
+              "ToolTip": "C:\\Desarrollos de .ASP\\ExamenAPI\\ExamenAPI\\Program.cs",
+              "RelativeToolTip": "ExamenAPI\\Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAQwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T22:12:29.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Desarrollos de .ASP\\ExamenAPI\\ExamenAPI\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "ExamenAPI\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Desarrollos de .ASP\\ExamenAPI\\ExamenAPI\\Models\\Categoria.cs",
+              "RelativeToolTip": "ExamenAPI\\Models\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T21:36:28.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Desarrollos de .ASP\\ExamenAPI\\ExamenAPI\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "ExamenAPI\\Models\\Producto.cs",
+              "ToolTip": "C:\\Desarrollos de .ASP\\ExamenAPI\\ExamenAPI\\Models\\Producto.cs",
+              "RelativeToolTip": "ExamenAPI\\Models\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T21:36:19.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProyectoContext.cs",
+              "DocumentMoniker": "C:\\Desarrollos de .ASP\\ExamenAPI\\ExamenAPI\\ProyectoContext.cs",
+              "RelativeDocumentMoniker": "ExamenAPI\\ProyectoContext.cs",
+              "ToolTip": "C:\\Desarrollos de .ASP\\ExamenAPI\\ExamenAPI\\ProyectoContext.cs",
+              "RelativeToolTip": "ExamenAPI\\ProyectoContext.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAA7wCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T18:29:30.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Desarrollos de .ASP\\ExamenAPI\\ExamenAPI\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "ExamenAPI\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Desarrollos de .ASP\\ExamenAPI\\ExamenAPI\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "ExamenAPI\\Controllers\\ProductosController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAQwCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T18:27:40.237Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
